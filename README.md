@@ -30,5 +30,5 @@ The notebook is based on a [blog post](https://towardsdatascience.com/how-to-eff
 
 ## Learn More
 
-You can learn more in [Tingting Duan's Project Portfolio](https://tingting0618.github.io).
+For more information, please check out the [Project Portfolio](https://tingting0618.github.io).
 
