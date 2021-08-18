@@ -24,7 +24,7 @@ SMOTE resolved the previous problem.
 ![download](https://user-images.githubusercontent.com/44503223/125883368-a0556fab-d522-4ba3-b9d9-ed1aa1e99b04.png)
 
 
-## Reference:
+## Reference
 
 The notebook is based on a [blog post](https://towardsdatascience.com/how-to-effortlessly-handle-class-imbalance-with-python-and-smote-9b715ca8e5a7).
 
